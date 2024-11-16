@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **C#, TypeScript, PHP, .NET, ionic, angular, mysql.**
 
-- 👯 Estou procurando colaborar em **Estou colaborando no projeto TCC chamado "GetTask"**
+- 👯 Estou colaborando no meu projeto TCC chamado "GetTask"
 
 - 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/Rihan17](https://github.com/Rihan17)
 
